@@ -1,7 +1,5 @@
 import os
-import shutil
 import xlrd
-import xlwt
 import matplotlib.pyplot as plt
 import numpy as np
 import itertools
