@@ -12,7 +12,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QInputDialog, QLineEdit, QFil
 from PyQt5.QtGui import QIcon
 from PlotGen import PlotGen
 
-import os
+# import os
 
 
 class Ui_MainWindow(object):
